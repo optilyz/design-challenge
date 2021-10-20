@@ -10,3 +10,8 @@ add any other additional functionality to it.
 
 In the project directory, you can run  `npm start`to run the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+## Deployment
+
+To make reviewing easier for us, the application will automatically be deployed 
+to GitHub Pages.
